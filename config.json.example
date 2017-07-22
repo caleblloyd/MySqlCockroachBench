@@ -1,0 +1,6 @@
+{
+    "Data": {
+      "MySqlConnectionString": "server=127.0.0.1;user id=root;password=test;database=mysqltest;",
+      "CockroachDbConnectionString": "Host=127.0.0.1;Port=26257;Username=maxroach;Password=;Database=cockroachtest;SSL Mode=Disable;"
+    }
+}
